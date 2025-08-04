@@ -1,0 +1,1 @@
+The Travel Adventure Landing Page is a responsive web page designed to promote travel experiences and services. It features a visually appealing layout with a full-screen background image, a navigation menu, and sections highlighting key features of the travel service.
